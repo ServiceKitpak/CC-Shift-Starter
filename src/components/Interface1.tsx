@@ -26,24 +26,24 @@ interface ActiveShift {
 }
 
 const EMPLOYEES: Employee[] = [
-  { id: 'emp1', name: 'Muhammad Bilal', department: 'Development' },
-  { id: 'emp2', name: 'Saif Akram', department: 'Development' },
-  { id: 'emp3', name: 'Fizza Rehan', department: 'Development' },
-  { id: 'emp4', name: 'Ali Hassan', department: 'Development' },
-  { id: 'emp5', name: 'Muhammad Shoaib', department: 'Development' },
-  { id: 'emp6', name: 'Muhammad Hamza', department: 'Development' },
-  { id: 'emp7', name: 'Khubaib Akhter', department: 'Development' },
-  { id: 'emp8', name: 'Muhammad Usama', department: 'Development' },
-  { id: 'emp9', name: 'Mohsin Mehfooz', department: 'Development' },
-  { id: 'emp10', name: 'Taimor Agha', department: 'Development' },
-  { id: 'emp11', name: 'Ahsan Shahzad', department: 'Development' },
-  { id: 'emp12', name: 'Muhammad Umer', department: 'Development' },
-  { id: 'emp13', name: 'Shanzay', department: 'Development' },
-  { id: 'emp14', name: 'Haroon Humayun', department: 'Development' },
-  { id: 'emp15', name: 'Muhammad Shabir', department: 'Development' },
-  { id: 'emp16', name: 'Hashim Ali', department: 'Development' },
-  { id: 'emp17', name: 'Mutahir', department: 'Development' },
-  { id: 'emp18', name: 'Umar Humayun', department: 'Development' }
+  { id: 'Bilal-NS', name: 'Muhammad Bilal', department: 'Evening Shift' },
+  { id: 'Saif-NS', name: 'Saif Akram', department: 'Evening Shift' },
+  { id: 'Fizza-NS', name: 'Fizza Rehan', department: 'Evening Shift' },
+  { id: 'Ali-Hassan-NS', name: 'Ali Hassan', department: 'Evening Shift' },
+  { id: 'emp5', name: 'Muhammad Shoaib', department: 'Evening Shift' },
+  { id: 'emp6', name: 'Muhammad Hamza', department: 'Evening Shift' },
+  { id: 'emp7', name: 'Khubaib Akhter', department: 'Evening Shift' },
+  { id: 'emp8', name: 'Muhammad Usama', department: 'Evening Shift' },
+  { id: 'emp9', name: 'Mohsin Mehfooz', department: 'Evening Shift' },
+  { id: 'emp10', name: 'Taimor Agha', department: 'Evening Shift' },
+  { id: 'Ahsan-NS', name: 'Ahsan Shahzad', department: 'Evening Shift' },
+  { id: 'emp12', name: 'Muhammad Umer', department: 'Evening Shift' },
+  { id: 'emp13', name: 'Shanzay', department: 'Evening Shift' },
+  { id: 'emp14', name: 'Haroon Humayun', department: 'Evening Shift' },
+  { id: 'emp15', name: 'Muhammad Shabir', department: 'Evening Shift' },
+  { id: 'emp16', name: 'Hashim Ali', department: 'Evening Shift' },
+  { id: 'emp17', name: 'Mutahir', department: 'Evening Shift' },
+  { id: 'emp18', name: 'Umar Humayun', department: 'Evening Shift' }
 ];
 
 const Interface1 = () => {
